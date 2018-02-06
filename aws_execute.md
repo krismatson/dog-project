@@ -3,7 +3,7 @@
 1. Start p2.xlarge instance
 2. Login to instance using Putty where:
   - Session > Host Name is found by right-clicking on instance in EC2 mgt console, 
-  - Athenticate by selecting Connection > SSH > Auth and "Brouse" to .ppk file
+  - Athenticate by selecting Connection > SSH > Auth and "Browse" to .ppk file
 3. Start Jupyter notebook
 ```
 jupyter notebook --ip=0.0.0.0 --no-browser
