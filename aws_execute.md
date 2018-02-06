@@ -32,4 +32,4 @@ jupyter notebook --ip=0.0.0.0 --no-browser
 ### Commits
   - ```git status``` to see mods
   - ```git add <file>``` to stage
-  - ```git commit -m "<message>" to commit to remote
+  - ```git commit -m "<message>"``` to commit to remote
