@@ -68,6 +68,10 @@ cd dog-project
 ```
 sudo python3 -m pip install -r requirements/requirements-gpu.txt
 ```
+May need to set path for conda:
+```
+export PATH=~/src/anaconda3/bin:$PATH
+```
 	
 9. Switch [Keras backend](https://keras.io/backend/) to TensorFlow.
 	- __Linux__ or __Mac__: 
